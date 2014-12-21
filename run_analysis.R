@@ -1,4 +1,3 @@
-`
 #assuming that the gcd-dataset folder is in the same directory as this script
 #start loading the files: xtrain, ytrain, xtest, ytest, subjecttrain, subjecttest 
 

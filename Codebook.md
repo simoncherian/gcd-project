@@ -199,3 +199,11 @@ A point to be noted is that the features are the columns in the final tidy datas
     fBodyBodyGyroscopeJerkMagnitudeStandardDeviation    Type: Numeric   Width: 10   Range: [-1,1]
     
     fBodyBodyGyroscopeJerkMagnitudeMeanFrequency    Type: Numeric   Width: 10   Range: [-1,1]
+
+##Work Done
+
+ - Step 1 was to combine the sensor data and the activity labels and the subjects into a single dataset, from the multiple files involved
+ - Step 2 was to get the column names on the single dataset
+ - Step 3 was to get the columns with means and standard deviations
+ - Step 4 was to create descriptive column names
+ - Step 5 was to create a tidy dataset which contained only the mean of all the columns for each subject for each activity. 
